@@ -1,7 +1,7 @@
 
 {
-  "name": "Bob Ross Gallery",
-  "short_name": "Bob Ross",
+  "name": "Van Gogh Gallery",
+  "short_name": "Van Gogh",
   "description": "A gallery celebrating the paintings of Bob Ross.",
   "start_url": "./",
   "scope": "./",
@@ -11,12 +11,12 @@
   "theme_color": "#2b2118",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "Starry-night.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "Starry-night.png",
       "sizes": "512x512",
       "type": "image/png"
     }
